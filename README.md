@@ -21,6 +21,6 @@ A continuacion tenemos el codigo en python
 [CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/PracticeNo1.py#hash)
 
 Los archivos csv que lee nuestro codigo:
-[ARCHIVOS CSV](https://github.com/KelvinD10S/SSPIA2/blob/tree/master/ArchivosCSV#hash)
+[ARCHIVOS CSV](https://github.com/KelvinD10S/SSPIA2/blob/master/ArchivosCSV#hash)
 
 Los resultados:
