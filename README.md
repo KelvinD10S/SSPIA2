@@ -19,8 +19,8 @@ El programa lee los archivos correspondientes .csv de las compuertas XOR y OR, u
 
 A continuacion tenemos el codigo en python
 [CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/PracticeNo1.py#hash)
+
 Los archivos csv que lee nuestro codigo:
+[ARCHIVOS CSV](https://github.com/KelvinD10S/SSPIA2/blob/tree/master/Archivos CSV#hash)
+
 Los resultados:
-[CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/PracticeNo1.py#hash)
-
-
