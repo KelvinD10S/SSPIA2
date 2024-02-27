@@ -17,5 +17,10 @@ texto separado por comas.
 
 El programa lee los archivos correspondientes .csv de las compuertas XOR y OR, una vez leidos nos muestra graficamente los resultados de cada compuertao y la recta que los separa.
 
+A continuacion tenemos el codigo en python
 [CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/PracticeNo1.py#hash)
+Los archivos csv que lee nuestro codigo:
+Los resultados:
+[CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/PracticeNo1.py#hash)
+
 
