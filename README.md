@@ -25,7 +25,7 @@ A continuacion se muestran los links a los archivos correspondientes:
 
 [ARCHIVOS CSV](https://github.com/KelvinD10S/SSPIA2/blob/master/ArchivosCSV#hash)
 
-[IMAGEN DE GRAFICA 1](https://github.com/KelvinD10S/SSPIA2/blob/master/Resultados/XOR.png#hash)
+[](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/XOR.png)
 
 
 
