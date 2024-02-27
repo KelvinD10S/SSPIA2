@@ -16,3 +16,6 @@ texto separado por comas.
 • Prueba del perceptrón entrenado en datos reales.
 
 El programa lee los archivos correspondientes .csv de las compuertas XOR y OR, una vez leidos nos muestra graficamente los resultados de cada compuertao y la recta que los separa.
+
+[CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/ruta_al_archivo#hash)
+
