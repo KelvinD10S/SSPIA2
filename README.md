@@ -39,14 +39,20 @@ A continuacion se muestran los links a los archivos correspondientes:
 
 [REPORTE DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/ReportedePractica2.pdf#hash)
 
-[CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/PracticeNo1.py#hash)
+[CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/PracticeNo2.py#hash)
 
 [ARCHIVOS CSV](https://github.com/KelvinD10S/SSPIA2/blob/master/ArchivosCSV#hash)
 
-Y por ultimo los resultados graficados de la practica
+Y por ultimo los resultados de la practica
 
-[GRAFICA 1 - XOR](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/XOR.png)
+[DATASET 1 - METODO 1](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/Metodo1.png)
+[DATASET 1 - METODO 2](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/Metodo2.png)
 
-[GRAFICA 2 - OR](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/OR.png)
+[DATASET 2 - METODO 3](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/Metodo3.png)
+[DATASET 2 - METODO 4](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/Metodo4.png)
+
+[DATASET 3 - METODO 5](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/Metodo5.png)
+
+[COMPARACION](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/GraficaComparacion.png)
 
 
