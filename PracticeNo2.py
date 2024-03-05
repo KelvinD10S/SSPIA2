@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split, StratifiedShuffleSplit, ShuffleSplit
 import os
 
-# Clase de tu perceptrón
+# Clase del perceptrón
 class PerceptronSimple:
     def __init__(self, num_inputs, learning_rate=0.1):
         self.weights = np.random.rand(num_inputs)
