@@ -57,7 +57,7 @@ Y por ultimo los resultados de la practica
 
 [COMPARACION](https://github.com/KelvinD10S/SSPIA2/blob/877528099e02195c2a4af60c52808e982ce2d141/Resultados/Practica2/GraficaComparacion.png)
 
-[PRECISIONES EN TERMINAL](https://github.com/KelvinD10S/SSPIA2/blob/877528099e02195c2a4af60c52808e982ce2d141/Resultados/Practica2/Precisiones.png)
+[PRECISIONES EN TERMINAL](https://github.com/KelvinD10S/SSPIA2/blob/c26103ddf884e54a1f8e90226c1e1242052f838a/Resultados/Practica2/Precisiones.JPG)
 
 
 
