@@ -47,9 +47,9 @@ Y por ultimo los resultados de la practica
 
 [DATASET 1 - METODO 1](https://github.com/KelvinD10S/SSPIA2/blob/877528099e02195c2a4af60c52808e982ce2d141/Resultados/Practica2/Metodo1.png)
 
-[DATASET 1 - METODO 2](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/Practica2/Metodo2.png)
+[DATASET 1 - METODO 2](https://github.com/KelvinD10S/SSPIA2/blob/877528099e02195c2a4af60c52808e982ce2d141/Resultados/Practica2/Metodo2.png)
 
-[DATASET 2 - METODO 3](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/Practica2/Metodo3.png)
+[DATASET 2 - METODO 3](https://github.com/KelvinD10S/SSPIA2/blob/877528099e02195c2a4af60c52808e982ce2d141/Resultados/Practica2/Metodo3.png)
 
 [DATASET 2 - METODO 4](https://github.com/KelvinD10S/SSPIA2/blob/37f2bcefc06bd8abd168384ebe1da1eebe93e31f/Resultados/Practica2/Metodo4.png)
 
