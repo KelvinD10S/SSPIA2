@@ -37,7 +37,7 @@ Consiste en un programa que permite generar un conjunto de particiones de entren
 
 A continuacion se muestran los links a los archivos correspondientes:
 
-[REPORTE DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/ReportedePerceptronSimple.pdf#hash)
+[REPORTE DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/ReportedePractica2.pdf#hash)
 
 [CODIGO DE LA PRACTICA](https://github.com/KelvinD10S/SSPIA2/blob/master/PracticeNo1.py#hash)
 
